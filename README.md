@@ -2,5 +2,4 @@
 - 🧑🏻‍💻 I code mostly in Python and Java
 - 👀 I’m interested in Artificial Intelligence and Machine Learning 🧑🏻‍💻
 - 🌱 I’m currently focusing on Data Analysis 
-- 📫 You can contact me on Instagram - @disha._rathore 🎀
-- ⚡ Fun fact: As long as we are alive we have infinite chances🌻✨
+As long as we are alive we have infinite chances🌻✨
