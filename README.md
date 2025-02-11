@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/disharathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disharathore" height="30" width="40" /></a>
-<a href="https://instagram.com/codewithdisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithdisha" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/disharathore](https://www.linkedin.com/in/disha-rathore-8b3702273/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="disharathore" height="30" width="40" /></a>
+<a href="https://instagram.com/codewith.disha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithdisha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
