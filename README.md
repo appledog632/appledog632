@@ -3,20 +3,16 @@
 </center>
 
 
-<h1 align="center">Hi 👋, I'm Disha Rathore</h1>
-<h3 align="center">A passionate AI/ML Enthusiast • Data Analyst • Tech Innovator from India</h3>
+<h1 align="center">Hieee, I'm Disha Rathore</h1>
+<h3 align="center">A Data Analyst• ML Engineer </h3>
 
 <img align ="right" alt="coding" width="400" src= "https://github.com/appledog632/appledog632/blob/bdc413e43a83b1434988a1689d5cc9702eedbe35/Pfp.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=appledog632&label=Profile%20views&color=0e75b6&style=flat" alt="appledog632" /> </p>
 
-- 🔭 I’m currently working on *Millie-AI*
+- 🔭 I’m currently working on *Multi Agents Orchestration*
+- 📫 How to reach me *disharaathore@gmail.com*
 
-- 🌱 I’m currently learning about *Generative AIs*
-
-- 📫 How to reach me *disharathore6113@gmail.com*
-
-- ⚡ Fun fact *I can survive on coffee and chaos alone—sleep is just a luxury! ☕😴😂*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
