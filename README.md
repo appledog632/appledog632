@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hieee, I'm Disha Rathore</h1>
-<h3 align="center">A Data Analyst• ML Engineer </h3>
+<h3 align="center"> Data Analyst • Software Developer</h3>
 
 <img align ="right" alt="coding" width="400" src= "https://github.com/appledog632/appledog632/blob/bdc413e43a83b1434988a1689d5cc9702eedbe35/Pfp.jpeg">
 
