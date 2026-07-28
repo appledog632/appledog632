@@ -1,32 +1,79 @@
-<center>
-    <img src="https://github.com/appledog632/appledog632/blob/bdc413e43a83b1434988a1689d5cc9702eedbe35/Background.jpeg" alt="logo">
-</center>
+<div align="center">
 
+<img src="https://github.com/appledog632/appledog632/blob/bdc413e43a83b1434988a1689d5cc9702eedbe35/Background.jpeg" alt="banner" width="100%">
 
-<h1 align="center">Hieee, I'm Disha Rathore</h1>
-<h3 align="center"> Data Analyst • Software Developer</h3>
+# Hi, I'm Disha Rathore 👋
 
-<img align ="right" alt="coding" width="400" src= "https://github.com/appledog632/appledog632/blob/bdc413e43a83b1434988a1689d5cc9702eedbe35/Pfp.jpeg">
+### Data Analyst — Building Automation Workflows that *matter*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=appledog632&label=Profile%20views&color=0e75b6&style=flat" alt="appledog632" /> </p>
+<img src="https://komarev.com/ghpvc/?username=appledog632&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- 🔭 I’m currently working on *Multi Agents Orchestration*
-- 📫 How to reach me *disharaathore@gmail.com*
+</div>
 
+<br>
 
-<h3 align="left">Connect with me:</h3>
+<table>
+<tr>
+<td width="65%" valign="top">
+
+## 🚀 About Me
+
+I'm a **Data Analyst** passionate about turning raw data into insights and building automation workflows that save time and reduce manual work.
+
+- 🔭 Currently working on **Multi-Agent Orchestration** for workflow automation
+- 📊 Skilled in data analysis, visualization, and dashboarding
+- ⚙️ I love automating repetitive processes end-to-end
+- 📫 Reach me at **disharathore632@gmail.com**
+- 🌐 Portfolio: [dishaarathore632.vercel.app](https://dishaarathore632.vercel.app/)
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="https://github.com/appledog632/appledog632/blob/bdc413e43a83b1434988a1689d5cc9702eedbe35/Pfp.jpeg" width="220" style="border-radius: 12px;" alt="Disha Rathore">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack
+
 <p align="left">
-<a href="https://www.linkedin.com/in/disha-rathore-8b3702273/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Disha Rathore" height="30" width="40" />
-</a>
-<a href="https://instagram.com/codewith.disha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithdisha" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=appledog632&show_icons=true&locale=en&layout=compact" alt="appledog632" /></p>
+## 📈 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=appledog632&show_icons=true&locale=en" alt="appledog632" /></p>
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=appledog632&show_icons=true&locale=en&theme=default" alt="Disha's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=appledog632&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=appledog632&" alt="appledog632" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=appledog632" alt="GitHub Streak" />
+</p>
+
+<br>
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/disha-rathore-8b3702273/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://instagram.com/codewith.disha" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://dishaarathore632.vercel.app/" target="_blank">
+  🌐 Portfolio
+</a>
+</p>
+
+<p align="center"><i>Open to Data Analyst opportunities — let's build something exceptional together.</i></p>
