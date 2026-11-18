@@ -3,7 +3,7 @@
 </div>
 
 
-<h2 align="center">Software Developer | Data Analyst | AI Agent Orchestrator</h2>
+<h2 align="center">Backend Developer | Data Analyst | Open Source Contributor </h2>
 
 <br>
 
